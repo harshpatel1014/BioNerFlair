@@ -2,7 +2,7 @@
 # load the Corpus
 from flair.data import Corpus
 columns = {0 : 'test', 1 : 'ner'}
-data_folder = '/content'
+data_folder = '/path_to_data'
 from pathlib import Path
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
