@@ -1,4 +1,4 @@
 # BioNerFlair
 
-install flair using - 'pip install flair'
-run
+# install flair - "pip install flair"
+# run "BioNer.py" to get results mentioned in paper
