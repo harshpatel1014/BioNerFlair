@@ -43,6 +43,6 @@ trainer : ModelTrainer = ModelTrainer(tagger,corpus)
 trainer.train('/path_to_save_files',
              learning_rate=0.1,
              mini_batch_size=32,
-             max_epochs=20,
+             max_epochs=40,
              embeddings_storage_mode='gpu',
              patience=3)
