@@ -16,4 +16,6 @@ We provide pre-processed versions of benchmarks datasets as follows:<br/>
 - LINNAEUS
 - BC2GM
 ## Run
-Run 
+Run `train_model.py` to get reported scores.
+## Contact
+Please email your questions or comments to Harsh Patel (`patel.harsh1014@gmail.com`)
