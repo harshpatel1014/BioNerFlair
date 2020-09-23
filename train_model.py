@@ -1,5 +1,7 @@
 
 # load the Corpus
+# the folder should have train, test, devel file
+# for quicker results, we can also train model on google colab
 from flair.data import Corpus
 columns = {0 : 'test', 1 : 'ner'}
 data_folder = '/path_to_data'
